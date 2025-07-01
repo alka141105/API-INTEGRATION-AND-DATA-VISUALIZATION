@@ -11,3 +11,7 @@
 *DURATION*: 4 WEEEKS
 
 *MENTOR*: NEELAM SANTOSH
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f3e141b2-4db6-429a-907c-90fbcabc0f36)
